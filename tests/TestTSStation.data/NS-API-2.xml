@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<stations>
+    <unit_test timestamp="2014-04-04T14:04:04"/>
+    <station>
+        <name>Delft Centrum</name>
+        <code>dt</code>
+        <country>NL</country>
+        <lat>52.006677</lat>
+        <long>4.356622</long>
+        <alias>false</alias>
+    </station>
+    <station>
+        <name>Delft TU Wijk</name>
+        <code>dtz</code>
+        <country>NL</country>
+        <lat>51.990928</lat>
+        <long>4.364703</long>
+        <alias>true</alias>
+    </station>
+    <station>
+        <name>Delft Tanthof</name>
+        <code>dtz</code>
+        <country>NL</country>
+        <lat>51.990928</lat>
+        <long>4.364703</long>
+        <alias>false</alias>
+    </station>
+    <station>
+        <name>Delft Zuid</name>
+        <code>dtz</code>
+        <country>NL</country>
+        <lat>51.990928</lat>
+        <long>4.364703</long>
+        <alias>true</alias>
+    </station>
+</stations>

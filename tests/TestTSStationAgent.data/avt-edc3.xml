@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ActueleVertrekTijden>
+
+    <VertrekkendeTrein>
+        <RitNummer>31337</RitNummer>
+        <VertrekTijd>2013-02-23T14:44:00+0100</VertrekTijd>
+        <EindBestemming>Ede-Wageningen</EindBestemming>
+        <TreinSoort>Stoptrein</TreinSoort>
+        <Vervoerder>Connexxion</Vervoerder>
+        <VertrekSpoor wijziging="false">1</VertrekSpoor>
+    </VertrekkendeTrein>
+
+    <VertrekkendeTrein>
+        <RitNummer>31338</RitNummer>
+        <VertrekTijd>2013-02-23T14:59:00+0100</VertrekTijd>
+        <EindBestemming>Amersfoort</EindBestemming>
+        <TreinSoort>Stoptrein</TreinSoort>
+        <Vervoerder>Connexxion</Vervoerder>
+        <VertrekSpoor wijziging="false">1</VertrekSpoor>
+    </VertrekkendeTrein>
+
+</ActueleVertrekTijden>

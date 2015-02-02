@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routeItems version="1.0">
+    <station id="nl.asd" name="Amsterdam Centraal" lat="52.3788877" lon="4.9002783" importance="0"/>
+    <station id="nl.shl" name="Schiphol" lat="52.3093791" lon="4.7621051" importance="0"/>
+    <station id="nl.ut" name="Utrecht Centraal" lat="52.0890243" lon="5.1106587" importance="0"/>
+    <station id="nl.ah" name="Arnhem" lat="51.9849811" lon="5.8991586" importance="1"/>
+    <station id="nl.ht" name="'s-Hertogenbosch" lat="51.6905592" lon="5.2935915" importance="1"/>
+    <station id="nl.ehv" name="Eindhoven" lat="51.4433330" lon="5.4813890" importance="1"/>
+    <station id="nl.rm" name="Roermond" lat="51.1930207" lon="5.9943577" importance="2"/>
+</routeItems>

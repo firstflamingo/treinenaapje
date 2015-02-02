@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routeItems version="1.0">
+    <station id="nl.gvc" name="Den Haag Centraal" lat="52.0803270" lon="4.3251072" importance="0"/>
+    <station id="nl.gd" name="Gouda" lat="52.0174824" lon="4.7029650" importance="2"/>
+    <station id="nl.ut" name="Utrecht Centraal" lat="52.0890243" lon="5.1106587" importance="0"/>
+</routeItems>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable>
+    <series id="nl.008" name="800">
+        <type>Intercity</type>
+        <routePoints>
+            <station id="nl.asd" km="61.722"/>
+            <station id="nl.ut" km="101.340" name="Utrecht Centraal"/>
+            <station id="nl.ht" km="149.253"/>
+            <station id="nl.ehv" km="181.334"/>
+            <station id="nl.rm" km="234.227"/>
+        </routePoints>
+        <upSchedule>
+            <up dep="1:08" platform="5b" arr="1:04" station="nl.asd"/>
+            <up dep="1:38" platform="15" arr="1:35" station="nl.ut"/>
+            <up dep="2:09" platform="4b" arr="2:07" station="nl.ht"/>
+            <up dep="2:32" platform="1" arr="2:29" station="nl.ehv"/>
+            <up dep="3:02" platform="1" arr="3:01" station="nl.rm"/>
+        </upSchedule>
+        <downSchedule>
+            <down dep="2:57" platform="8a" arr="2:53" station="nl.asd"/>
+            <down dep="2:25" platform="7" arr="2:22" station="nl.ut"/>
+            <down dep="1:53" platform="3a" arr="1:51" station="nl.ht"/>
+            <down dep="1:32" platform="5" arr="1:29" station="nl.ehv"/>
+            <down dep="0:59" platform="2" arr="0:58" station="nl.rm"/>
+        </downSchedule>
+        <missions>
+            <mission id="nl.827" offset="07:00">
+                <od to="nl.rm" from="nl.asd" day="d"/>
+            </mission>
+            <mission id="nl.828" offset="07:30">
+                <od to="nl.asd" from="nl.rm" day="d"/>
+            </mission>
+            <mission id="nl.829" offset="07:30">
+                <od to="nl.rm" from="nl.asd" day="d"/>
+            </mission>
+            <mission id="nl.830" offset="08:00">
+                <od to="nl.asd" from="nl.rm" day="d"/>
+            </mission>
+            <mission id="nl.831" offset="08:00">
+                <od to="nl.rm" from="nl.asd" day="d"/>
+            </mission>
+            <mission id="nl.832" offset="08:30">
+                <od to="nl.asd" from="nl.rm" day="d"/>
+            </mission>
+            <mission id="nl.833" offset="08:30">
+                <od to="nl.rm" from="nl.asd" day="d"/>
+            </mission>
+        </missions>
+    </series>
+    <series id="nl.031" name="3100">
+        <type>Intercity</type>
+        <routePoints>
+            <station id="nl.shl" km="0.000" name="Schiphol"/>
+            <station id="nl.ut" km="44.362"/>
+            <station id="nl.ah" km="100.865"/>
+        </routePoints>
+        <upSchedule>
+            <up dep="0:00" platform="1" arr="0:00" station="nl.shl"/>
+            <up dep="0:38" platform="14" arr="0:32" station="nl.ut"/>
+            <up dep="1:19" platform="8" arr="1:14" station="nl.ah"/>
+        </upSchedule>
+        <downSchedule>
+            <down dep="1:59" platform="" arr="1:59" station="nl.shl"/>
+            <down dep="1:28" platform="5" arr="1:22" station="nl.ut"/>
+            <down dep="0:46" platform="11" arr="0:40" station="nl.ah"/>
+        </downSchedule>
+        <missions>
+            <mission id="nl.3129" offset="08:30">
+                <od to="nl.ah" from="nl.shl" day="d"/>
+            </mission>
+            <mission id="nl.3130" offset="09:00">
+                <od to="nl.shl" from="nl.ah" day="d"/>
+            </mission>
+            <mission id="nl.3131" offset="09:00">
+                <od to="nl.ah" from="nl.shl" day="d"/>
+            </mission>
+            <mission id="nl.3132" offset="09:30">
+                <od to="nl.shl" from="nl.ah" day="d"/>
+            </mission>
+        </missions>
+    </series>
+    <series id="nl.035" name="3500">
+        <type>Intercity</type>
+        <routePoints>
+            <station id="nl.shl" km="0.000" name="Schiphol"/>
+            <station id="nl.ut" km="44.362" name="Utrecht Centraal"/>
+            <station id="nl.ht" km="92.275"/>
+            <station id="nl.ehv" km="124.356" name="Eindhoven"/>
+            <station id="nl.rm" km="177.249"/>
+        </routePoints>
+        <upSchedule>
+            <up dep="0:16" platform="2" arr="0:16" station="nl.shl"/>
+            <up dep="0:53" platform="15" arr="0:47" station="nl.ut"/>
+            <up dep="1:24" platform="4b" arr="1:23" station="nl.ht"/>
+            <up dep="1:46" platform="1" arr="1:44" station="nl.ehv"/>
+            <up dep="2:17" platform="1" arr="2:16" station="nl.rm"/>
+        </upSchedule>
+        <downSchedule>
+            <down dep="2:42" platform="" arr="2:42" station="nl.shl"/>
+            <down dep="2:13" platform="7" arr="2:07" station="nl.ut"/>
+            <down dep="1:38" platform="3a" arr="1:36" station="nl.ht"/>
+            <down dep="1:17" platform="5" arr="1:14" station="nl.ehv"/>
+            <down dep="0:45" platform="2" arr="0:44" station="nl.rm"/>
+        </downSchedule>
+        <missions>
+            <mission id="nl.3527" offset="08:00">
+                <od to="nl.rm" from="nl.shl" day="d"/>
+            </mission>
+            <mission id="nl.3528" offset="07:30">
+                <od to="nl.shl" from="nl.rm" day="d"/>
+            </mission>
+            <mission id="nl.3529" offset="08:30">
+                <od to="nl.rm" from="nl.shl" day="d"/>
+            </mission>
+            <mission id="nl.3530" offset="08:00">
+                <od to="nl.shl" from="nl.rm" day="d"/>
+            </mission>
+            <mission id="nl.3531" offset="09:00">
+                <od to="nl.rm" from="nl.shl" day="d"/>
+            </mission>
+            <mission id="nl.3532" offset="08:30">
+                <od to="nl.shl" from="nl.rm" day="d"/>
+            </mission>
+            <mission id="nl.3533" offset="09:30">
+                <od to="nl.rm" from="nl.shl" day="d"/>
+            </mission>
+        </missions>
+    </series>
+</timetable>

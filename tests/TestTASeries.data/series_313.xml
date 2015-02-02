@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable version="1.0" year="2012">
+    <series id="nl.313">
+        <routePoints>
+            <station km="0.000" id="nl.amf" name="Amersfoort"/>
+            <station km="6.971" id="nl.hvl" name="Hoevelaken"/>
+            <station km="16.537" id="nl.bnn" name="Barneveld Noord"/>
+            <station km="19.205" id="nl.bnc" name="Barneveld Centrum"/>
+            <station km="26.354" id="nl.ltn" name="Lunteren"/>
+            <station km="32.061" id="nl.edc" name="Ede Centrum"/>
+            <station km="34.111" id="nl.ed" name="Ede-Wageningen"/>
+        </routePoints>
+        <upSchedule>
+            <up station="nl.amf" arr="0:11" dep="0:11"/>
+            <up station="nl.hvl" arr="0:16" dep="0:16"/>
+            <up station="nl.bnn" arr="0:24" dep="0:24"/>
+            <up station="nl.bnc" arr="0:27" dep="0:28"/>
+            <up station="nl.ltn" arr="0:36" dep="0:37"/>
+            <up station="nl.edc" arr="0:44" dep="0:44"/>
+            <up station="nl.ed" arr="0:48" dep="0:48"/>
+        </upSchedule>
+        <downSchedule>
+            <down station="nl.ed" arr="0:25" dep="0:25"/>
+            <down station="nl.edc" arr="0:29" dep="0:29"/>
+            <down station="nl.ltn" arr="0:36" dep="0:37"/>
+            <down station="nl.bnc" arr="0:45" dep="0:46"/>
+            <down station="nl.bnn" arr="0:49" dep="0:50"/>
+            <down station="nl.hvl" arr="0:57" dep="0:57"/>
+            <down station="nl.amf" arr="1:03" dep="1:03"/>
+        </downSchedule>
+    </series>
+</timetable>

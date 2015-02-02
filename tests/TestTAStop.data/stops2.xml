@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ActueleVertrekTijden>
+    <VertrekkendeTrein>
+        <RitNummer>502</RitNummer>
+        <VertrekTijd>2013-02-23T14:59:00+0100</VertrekTijd>
+        <EindBestemming>Amersfoort</EindBestemming>
+        <VertrekSpoor wijziging="false">1</VertrekSpoor>
+    </VertrekkendeTrein>
+    <VertrekkendeTrein>
+        <RitNummer>503</RitNummer>
+        <VertrekTijd>2013-02-23T15:14:00+0100</VertrekTijd>
+        <VertrekVertraging>PT2M</VertrekVertraging>
+        <EindBestemming>Ede-Wageningen</EindBestemming>
+        <VertrekSpoor wijziging="true">2</VertrekSpoor>
+        <Opmerkingen>
+            <Opmerking>Extra trein</Opmerking>
+            <Opmerking>Rijdt niet verder dan het opstelspoor</Opmerking>
+        </Opmerkingen>
+    </VertrekkendeTrein>
+    <VertrekkendeTrein>
+        <RitNummer>700504</RitNummer>
+        <VertrekTijd>2013-02-23T15:29:00+0100</VertrekTijd>
+        <EindBestemming>Amersfoort</EindBestemming>
+        <VertrekSpoor wijziging="false">1</VertrekSpoor>
+    </VertrekkendeTrein>
+</ActueleVertrekTijden>

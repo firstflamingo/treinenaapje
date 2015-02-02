@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable>
+<series type="Intercity" id="nl.005">
+ <routePoints>
+  <station id="nl.amr" km="41.202" name="Alkmaar"/>
+  </routePoints>
+ <upSchedule>
+  <up dep="0:42" platform="1-2" arr="0:39" station="nl.amr"/>
+  </upSchedule>
+ <downSchedule>
+  <down dep="2:20" platform="3" arr="2:18" station="nl.amr"/>
+  </downSchedule>
+ </series>
+</timetable>

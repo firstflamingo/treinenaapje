@@ -1,0 +1,14 @@
+[
+ {"url": "/TAMission/nl.3046", "payload":
+ [{"si": "nl.ah", "mi": "nl.3046", "p": "11", "v": "2013-02-19T14:01:00", "de": "Amsterdam Centraal", "now": "2013-02-19T10:00:00"}]
+ },
+ {"url": "/TAMission/nl.3046", "payload":
+ [{"si": "nl.asd", "mi": "nl.3046", "s": 6, "now": "2013-02-19T10:00:00"}]
+ },
+ {"url": "/TAMission/nl.3046", "payload":
+ [{"si": "nl.ass", "mi": "nl.3046", "s": 6, "now": "2013-02-19T10:00:00"}]
+ },
+ {"url": "/TAMission/nl.3046", "payload":
+ [{"si": "nl.xxx", "mi": "nl.3046", "s": 6, "now": "2013-02-19T10:00:00"}]
+ }
+]

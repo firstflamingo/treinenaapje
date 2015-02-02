@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable>
+    <series id="nl.030" name="3000">
+        <routePoints>
+            <station id="nl.amr" km="41.202" name="Alkmaar"/>
+            <station id="nl.zd" km="70.348"/>
+            <station id="nl.ass" km="77.769"/>
+            <station id="nl.asd" km="82.365"/>
+            <station id="nl.ut" km="121.983"/>
+            <station id="nl.klp" km="155.101"/>
+            <station id="nl.ed" km="162.174"/>
+            <station id="nl.ah" km="178.486"/>
+        </routePoints>
+        <upSchedule>
+            <up dep="0:42" platform="5" arr="0:39" station="nl.amr"/>
+            <up dep="1:04" platform="4" arr="1:04" station="nl.zd"/>
+            <up dep="1:12" platform="5" arr="1:10" station="nl.ass"/>
+            <up dep="1:23" platform="5" arr="1:19" station="nl.asd"/>
+            <up dep="1:53" platform="14" arr="1:50" station="nl.ut"/>
+            <up dep="2:11" platform="2" arr="2:11" station="nl.klp"/>
+            <up dep="2:17" platform="4" arr="2:17" station="nl.ed"/>
+            <up dep="2:34" platform="8" arr="2:29" station="nl.ah"/>
+        </upSchedule>
+        <downSchedule>
+            <down dep="2:20" platform="3" arr="2:18" station="nl.amr"/>
+            <down dep="1:55" platform="2" arr="1:55" station="nl.zd"/>
+            <down dep="1:48" platform="4" arr="1:46" station="nl.ass"/>
+            <down dep="1:42" platform="8a" arr="1:37" station="nl.asd"/>
+            <down dep="1:10" platform="5" arr="1:07" station="nl.ut"/>
+            <down dep="0:46" platform="1" arr="0:46" station="nl.klp"/>
+            <down dep="0:41" platform="3" arr="0:41" station="nl.ed"/>
+            <down dep="0:31" platform="11" arr="0:24" station="nl.ah"/>
+        </downSchedule>
+        <missions>
+            <mission id="nl.3046" offset="13:30">
+                <od to="nl.asd" from="nl.ah" day="0"/>
+                <od to="None" from="None" day="6"/>
+                <od to="nl.amr" from="nl.ah" day="d"/>
+            </mission>
+        </missions>
+    </series>
+</timetable>

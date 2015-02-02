@@ -1,0 +1,14 @@
+[
+ {"url": "/TAMission/nl.13846", "payload":
+ [{"si": "nl.ut", "mi": "nl.13846", "p": "5", "v": "2013-02-19T14:40:00", "de": "Alkmaar", "now": "2013-02-19T14:00:00"}]
+ },
+ {"url": "/TAMission/nl.13846", "payload":
+ [{"si": "nl.ut", "mi": "nl.13846", "p": "5", "v": "2013-02-19T14:40:00", "ad": "Timboektoe", "de": "Alkmaar", "now": "2013-02-19T14:00:00"}]
+ },
+ {"url": "/TAMission/nl.3046", "payload":
+ [{"si": "nl.ut", "mi": "nl.3046", "p": "5", "v": "2013-02-19T14:40:00", "ad": "Timboektoe", "de": "Alkmaar", "now": "2013-02-19T14:00:00"}]
+ },
+ {"url": "/TAMission/nl.3046", "payload":
+ [{"si": "nl.ut", "mi": "nl.3046", "p": "5", "v": "2013-02-19T14:40:00", "de": "Alkmaar", "now": "2013-02-19T14:00:00"}]
+ }
+]

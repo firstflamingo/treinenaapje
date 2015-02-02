@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<routeItems version="1.0">
+    <unit_test timestamp="2014-04-04T14:01:01"/>
+    <station id="nl.rsw" name="Rijswijk" lat="52.0397337" lon="4.3191867" importance="4">
+        <wiki>nl:Station Rijswijk</wiki>
+        <aliases>
+            <name>In de Boogaard</name>
+        </aliases>
+        <display angle="180">Rijswijk</display>
+        <opened>1847-06-03</opened>
+        <positions>
+            <ATLPosition km="65.046" route="nl.hsm01"/>
+        </positions>
+    </station>
+    <station id="nl.dt" name="Delft" lat="52.0066553" lon="4.3563137" importance="2">
+        <wiki>nl:Station Delft</wiki>
+        <display angle="180">Delft</display>
+        <opened>1847-06-03</opened>
+        <positions>
+            <ATLPosition km="69.543" route="nl.hsm01"/>
+        </positions>
+    </station>
+</routeItems>

@@ -1,0 +1,8 @@
+[
+ {"url": "/TAMission/nl.3046", "payload":
+ [{"si": "nl.ut", "mi": "nl.3046", "s": 6, "now": "2013-02-18T10:00:00"}]
+ },
+ {"url": "/TAMission/nl.3046", "payload":
+ [{"si": "nl.klp", "mi": "nl.3046", "s": 6, "now": "2013-02-18T10:00:00"}]
+ }
+]

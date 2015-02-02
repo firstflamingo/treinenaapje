@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable>
+    <series id="nl.020" name="2000">
+        <routePoints>
+            <station id="nl.gvc" km="0.000" name="Den Haag Centraal"/>
+            <station id="nl.gd" km="27.859" name="Gouda"/>
+            <station id="nl.ut" km="60.263" name="Utrecht Centraal"/>
+        </routePoints>
+        <upSchedule>
+            <up dep="0:09" platform="5" arr="0:09" station="nl.gvc"/>
+            <up dep="0:27" platform="5" arr="0:26" station="nl.gd"/>
+            <up dep="0:46" platform="" arr="0:46" station="nl.ut"/>
+        </upSchedule>
+        <downSchedule>
+            <down dep="0:52" platform="" arr="0:52" station="nl.gvc"/>
+            <down dep="0:34" platform="10" arr="0:33" station="nl.gd"/>
+            <down dep="0:14" platform="9" arr="0:14" station="nl.ut"/>
+        </downSchedule>
+        <missions>
+            <mission id="nl.2020" offset="08:00">
+                <od to="nl.gvc" from="nl.ut" day="d"/>
+            </mission>
+            <mission id="nl.2022" offset="08:30">
+                <od to="nl.gvc" from="nl.ut" day="d"/>
+            </mission>
+            <mission id="nl.2024" offset="09:00">
+                <od to="nl.gvc" from="nl.ut" day="d"/>
+                <od to="None" from="None" day="6"/>
+            </mission>
+            <mission id="nl.2026" offset="09:30">
+                <od to="nl.gvc" from="nl.ut" day="d"/>
+            </mission>
+            <mission id="nl.2028" offset="10:00">
+                <od to="nl.gvc" from="nl.ut" day="d"/>
+            </mission>
+            <mission id="nl.2030" offset="10:30">
+                <od to="nl.gvc" from="nl.ut" day="d"/>
+            </mission>
+            <mission id="nl.2032" offset="11:00">
+                <od to="nl.gvc" from="nl.ut" day="d"/>
+            </mission>
+            <mission id="nl.2034" offset="11:30">
+                <od to="nl.gvc" from="nl.ut" day="d"/>
+            </mission>
+            <mission id="nl.2036" offset="12:00">
+                <od to="nl.gvc" from="nl.ut" day="d"/>
+            </mission>
+            <mission id="nl.2038" offset="12:30">
+                <od to="nl.gvc" from="nl.ut" day="d"/>
+            </mission>
+            <mission id="nl.2040" offset="13:00">
+                <od to="nl.gvc" from="nl.ut" day="d"/>
+            </mission>
+            <mission id="nl.2029" offset="08:00">
+                <od to="nl.ut" from="nl.gvc" day="d"/>
+            </mission>
+            <mission id="nl.2031" offset="08:30">
+                <od to="nl.ut" from="nl.gvc" day="d"/>
+            </mission>
+        </missions>
+    </series>
+</timetable>

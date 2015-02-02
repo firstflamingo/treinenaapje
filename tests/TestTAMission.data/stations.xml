@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routeItems version="1.0">
+    <station id="nl.nm" name="Nijmegen" lat="51.8435808" lon="5.8523962" importance="1"/>
+    <station id="nl.ah" name="Arnhem" lat="51.9849811" lon="5.8991586" importance="1"/>
+    <station id="nl.ed" name="Ede-Wageningen" lat="52.0277800" lon="5.6730556" importance="2"/>
+    <station id="nl.klp" name="Veenendaal-De Klomp" lat="52.0458721" lon="5.5738909" importance="3"/>
+    <station id="nl.ut" name="Utrecht Centraal" lat="52.0890243" lon="5.1106587" importance="0"/>
+    <station id="nl.asa" name="Amsterdam Amstel" lat="52.3465417" lon="4.9172536" importance="2"/>
+    <station id="nl.asd" name="Amsterdam Centraal" lat="52.3788877" lon="4.9002783" importance="0"/>
+    <station id="nl.ass" name="Amsterdam Sloterdijk" lat="52.3888900" lon="4.8377776" importance="2"/>
+    <station id="nl.zd" name="Zaandam" lat="52.4388621" lon="4.8134777" importance="2"/>
+    <station id="nl.amr" name="Alkmaar" lat="52.6379647" lon="4.7396746" importance="1"/>
+    <station id="nl.sgn" name="Schagen" lat="52.7844456" lon="4.8053479" importance="3"/>
+    <station id="nl.hdr" name="Den Helder" lat="52.9552582" lon="4.7609420" importance="2"/>
+</routeItems>

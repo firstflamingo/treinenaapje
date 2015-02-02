@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable>
+    <series id="nl.370" name="37000">
+        <routePoints>
+            <station id="nl.lw" km="0.000" name="Leeuwarden"/>
+            <station id="nl.mg" km="9.984"/>
+            <station id="nl.sknd" km="20.396"/>
+            <station id="nl.sk" km="21.577" name="Sneek"/>
+        </routePoints>
+        <upSchedule>
+            <up dep="0:01" platform="1" arr="0:01" station="nl.lw"/>
+            <up dep="0:09" platform="2" arr="0:08" station="nl.mg"/>
+            <up dep="0:18" platform="2" arr="0:18" station="nl.sknd"/>
+            <up dep="0:20" platform="2" arr="0:20" station="nl.sk"/>
+        </upSchedule>
+        <downSchedule>
+            <down dep="0:35" platform="1" arr="0:35" station="nl.lw"/>
+            <down dep="0:27" platform="1" arr="0:26" station="nl.mg"/>
+            <down dep="0:18" platform="1" arr="0:18" station="nl.sknd"/>
+            <down dep="0:15" platform="2" arr="0:15" station="nl.sk"/>
+        </downSchedule>
+        <missions>
+            <mission id="nl.37007" offset="06:03"/>
+            <mission id="nl.37009" offset="06:46"/>
+            <mission id="nl.37011" offset="07:03"/>
+            <mission id="nl.37013" offset="07:43"/>
+            <mission id="nl.37015" offset="08:03"/>
+            <mission id="nl.37017" offset="08:43"/>
+            <mission id="nl.37019" offset="09:03"/>
+            <mission id="nl.37021" offset="09:43"/>
+            <mission id="nl.37023" offset="10:03"/>
+            <mission id="nl.37025" offset="10:43"/>
+            <mission id="nl.37027" offset="11:03"/>
+            <mission id="nl.37029" offset="11:43"/>
+            <mission id="nl.37031" offset="12:03"/>
+            <mission id="nl.37033" offset="12:43"/>
+            <mission id="nl.37035" offset="13:03"/>
+            <mission id="nl.37037" offset="13:43"/>
+            <mission id="nl.37039" offset="14:03"/>
+            <mission id="nl.37041" offset="14:43"/>
+            <mission id="nl.37043" offset="15:03"/>
+            <mission id="nl.37045" offset="15:43"/>
+            <mission id="nl.37047" offset="16:03"/>
+            <mission id="nl.37049" offset="16:43"/>
+            <mission id="nl.37051" offset="17:03"/>
+            <mission id="nl.37053" offset="17:43"/>
+            <mission id="nl.37055" offset="18:03"/>
+            <mission id="nl.37057" offset="18:43"/>
+            <mission id="nl.37059" offset="19:03"/>
+            <mission id="nl.37073" offset="22:23"/>
+            <mission id="nl.37077" offset="23:23"/>
+            
+            <mission id="nl.37018" offset="05:32"/>
+            <mission id="nl.37020" offset="06:07"/>
+            <mission id="nl.37022" offset="06:28"/>
+            <mission id="nl.37026" offset="07:07"/>
+            <mission id="nl.37028" offset="07:28"/>
+            <mission id="nl.37030" offset="08:07"/>
+            <mission id="nl.37032" offset="08:28"/>
+            <mission id="nl.37034" offset="09:07"/>
+            <mission id="nl.37036" offset="09:28"/>
+            <mission id="nl.37038" offset="10:07"/>
+            <mission id="nl.37040" offset="10:28"/>
+            <mission id="nl.37042" offset="11:07"/>
+            <mission id="nl.37044" offset="11:28"/>
+            <mission id="nl.37046" offset="12:07"/>
+            <mission id="nl.37048" offset="12:28"/>
+            <mission id="nl.37050" offset="13:07"/>
+            <mission id="nl.37052" offset="13:28"/>
+            <mission id="nl.37054" offset="14:07"/>
+            <mission id="nl.37056" offset="14:28"/>
+            <mission id="nl.37058" offset="15:07"/>
+            <mission id="nl.37060" offset="15:28"/>
+            <mission id="nl.37062" offset="16:07"/>
+            <mission id="nl.37064" offset="16:28"/>
+            <mission id="nl.37066" offset="17:07"/>
+            <mission id="nl.37068" offset="17:28"/>
+            <mission id="nl.37070" offset="18:07"/>
+            <mission id="nl.37072" offset="18:28"/>
+            <mission id="nl.37074" offset="19:07"/>
+            <mission id="nl.37076" offset="19:28"/>
+            <mission id="nl.37092" offset="23:37"/>
+        </missions>
+    </series>
+</timetable>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable>
+    <series id="nl.007" name="700">
+        <type>
+            Intercity
+        </type>
+        <routePoints>
+            <station id="nl.gvc" km="0.000" name="Den Haag Centraal"/>
+            <station id="nl.shl" km="42.351" name="Schiphol"/>
+            <station id="nl.asdz" km="51.155" name="Amsterdam Zuid"/>
+        </routePoints>
+        <upSchedule>
+            <up dep="0:34" platform="9" arr="0:34" station="nl.gvc"/>
+            <up dep="1:03" platform="2" arr="1:03" station="nl.shl"/>
+            <up dep="1:12" platform="1" arr="1:12" station="nl.asdz"/>
+        </upSchedule>
+        <downSchedule>
+            <down dep="3:26" platform="" arr="3:26" station="nl.gvc"/>
+            <down dep="2:56" platform="5" arr="2:56" station="nl.shl"/>
+            <down dep="2:49" platform="4" arr="2:49" station="nl.asdz"/>
+        </downSchedule>
+    </series>
+</timetable>
