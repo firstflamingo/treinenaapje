@@ -1,0 +1,6 @@
+[submodule "app/--name"]
+	path = app/--name
+	url = https://github.com/firstflamingo/python_utilities
+[submodule "app/web"]
+	path = app/web
+	url = https://bschotanus@github.com/firstflamingo/web_utilities
