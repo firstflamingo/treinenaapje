@@ -1,3 +1,6 @@
 [submodule "app/web"]
 	path = app/web
 	url = https://bschotanus@github.com/firstflamingo/web_utilities
+[submodule "app/ffe"]
+	path = app/ffe
+	url = https://bschotanus@github.com/firstflamingo/python_utilities
