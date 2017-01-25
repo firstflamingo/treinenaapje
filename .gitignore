@@ -8,3 +8,4 @@ __pycache__/
 # Configuration files
 *.yaml
 config.py
+/.idea
