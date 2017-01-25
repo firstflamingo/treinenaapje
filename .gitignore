@@ -9,3 +9,4 @@ __pycache__/
 *.yaml
 config.py
 /.idea
+/env
